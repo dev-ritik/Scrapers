@@ -1,0 +1,2 @@
+# Codechef profile scraper
+This code written in Golang was used initially to fetch public user-profiles and statistics from Codechef. This code was used by [Codephile](https://codephile.mdg.iitr.ac.in). (*We later moved to Codechef APIs rather than scraping*).
